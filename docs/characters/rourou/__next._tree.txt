@@ -1,0 +1,4 @@
+:HL["/dnd-story-prompter/_next/static/css/588e7dabfe67497e.css","style"]
+:HL["/dnd-story-prompter/_next/static/css/a1346d8d0ad54475.css","style"]
+:HL["/dnd-story-prompter/_next/static/css/ae7fe9e5ce49d098.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"characters","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"rourou","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"2u1BdESddKoG_wOz3vAMq"}

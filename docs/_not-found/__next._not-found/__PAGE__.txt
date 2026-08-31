@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[8500,["500","static/chunks/500-b13bb91f5a6311b6.js","974","static/chunks/app/page-c72188aeacf77be4.js"],""]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[484,[],"ViewportBoundary"]
+9:I[484,[],"MetadataBoundary"]
+a:I[6869,[],"IconMark"]
+c:I[7121,[],""]
+d:I[4581,[],""]
+:HL["/dnd-story-prompter/_next/static/css/588e7dabfe67497e.css","style"]
+:HL["/dnd-story-prompter/_next/static/css/a1346d8d0ad54475.css","style"]
+:HL["/dnd-story-prompter/_next/static/css/ae7fe9e5ce49d098.css","style"]
+7:X
+f:X
+f:C
+0:{"buildId":"2u1BdESddKoG_wOz3vAMq","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto flex min-h-[60vh] w-full max-w-xl flex-col items-start justify-center px-4","children":[["$","p",null,{"className":"text-xs tracking-[0.28em] text-brass","children":"404"}],["$","h1",null,{"className":"mt-2 font-serif text-3xl text-paper","children":"这条巷子没有档案"}],["$","p",null,{"className":"mt-3 text-sm text-paper/60","children":"也许被盾勋执法官收走了。"}],["$","$L2",null,{"href":"/","className":"mt-6 text-sm text-brass hover:underline","children":"回到枪弹酒吧"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"黄金宝库之钥 · 霾都狂徒档案"}],["$","meta","1",{"name":"description","content":"从五人跑团场记里抽出的剧本，以及给 Image 2 用的角色身份卡与建模题词。"}],["$","link","2",{"rel":"icon","href":"/dnd-story-prompter/favicon.ico?603d046c9a6fdfbb","type":"image/x-icon","sizes":"16x16"}],["$","$La","3",{}]]}]}]}],null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/dnd-story-prompter/_next/static/css/588e7dabfe67497e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/dnd-story-prompter/_next/static/css/a1346d8d0ad54475.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/dnd-story-prompter/_next/static/css/ae7fe9e5ce49d098.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_9180fa __variable_df3ed2 __variable_e89bc9 dark h-full","children":["$","body",null,{"className":"flex min-h-full flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 border-b border-brass/20 bg-soot/80 backdrop-blur-md","children":["$","div",null,{"className":"mx-auto flex h-14 w-full max-w-6xl items-center justify-between px-4 sm:px-6","children":[["$","$L2",null,{"href":"/","className":"flex items-baseline gap-2","children":[["$","span",null,{"className":"font-serif text-lg tracking-wide text-brass","children":"黄金宝库之钥"}],["$","span",null,{"className":"hidden text-xs text-paper/50 sm:inline","children":"霾都狂徒档案"}]]}],["$","nav",null,{"className":"flex items-center gap-1 text-sm","children":[["$","$L2","/",{"href":"/","className":"rounded-md px-3 py-1.5 text-paper/70 transition-colors hover:bg-brass/10 hover:text-brass","children":"档案"}],["$","$L2","/scripts",{"href":"/scripts","className":"rounded-md px-3 py-1.5 text-paper/70 transition-colors hover:bg-brass/10 hover:text-brass","children":"剧本"}],["$","$L2","/characters",{"href":"/characters","className":"rounded-md px-3 py-1.5 text-paper/70 transition-colors hover:bg-brass/10 hover:text-brass","children":"身份卡"}],["$","$L2","/download",{"href":"/download","className":"rounded-md px-3 py-1.5 text-paper/70 transition-colors hover:bg-brass/10 hover:text-brass","children":"打包下载"}]]}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[["$","div",null,{"className":"mx-auto flex min-h-[60vh] w-full max-w-xl flex-col items-start justify-center px-4","children":[["$","p",null,{"className":"text-xs tracking-[0.28em] text-brass","children":"404"}],["$","h1",null,{"className":"mt-2 font-serif text-3xl text-paper","children":"这条巷子没有档案"}],["$","p",null,{"className":"mt-3 text-sm text-paper/60","children":"也许被盾勋执法官收走了。"}],["$","$L2",null,{"href":"/","className":"mt-6 text-sm text-brass hover:underline","children":"回到枪弹酒吧"}]]}],[]]}]}],["$","footer",null,{"className":"mt-auto border-t border-brass/15 px-4 py-8 text-center text-xs leading-6 text-paper/40","children":["根据《黄金宝库之钥》群聊场记整理，对话尽量保留原句。",["$","br",null,{}],"角色外貌在团内未全部写死的部分，已按 Image 2 身份锚定需要补全，并在各身份卡中标明。"]}]]}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+5:null
+7:300
+12:true
+7:C
+11:0
+b:"$undefined"
+e:"$undefined"
+10:"$undefined"
+6:"$undefined"
